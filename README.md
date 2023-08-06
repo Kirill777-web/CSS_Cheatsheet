@@ -15,14 +15,13 @@ In this CSS Snippet Cheat Sheet, you'll discover a range of snippets covering va
 - Flexbox Grid Layout
 - Linear Gradients
 - Box Transition Glow
-- Box Transition Glow
+- Overlay Card with Title
 
 ## Credits
 
-This is link of UNB course section HTML/CSS [UNB] (https://courses.bootcampspot.com/courses/3974)
-This is link of MDN documentation HTML [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)
-This is link of MDN documentation CSS [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)
-Overlay Card with Title
+- This is link of UNB course section HTML/CSS [UNB] (https://courses.bootcampspot.com/courses/3974)
+- This is link of MDN documentation HTML [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- This is link of MDN documentation CSS [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ## License
 
