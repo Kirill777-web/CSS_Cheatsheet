@@ -10,12 +10,12 @@ N/A
 
 In this CSS Snippet Cheat Sheet, you'll discover a range of snippets covering various aspects of web styling, including but not limited to:
 
-Flexbox Rown
-Flexbox Column
-Flexbox Grid Layout
-Linear Gradients
-Box Transition Glow
-Box Transition Glow
+- Flexbox Rown
+- Flexbox Column
+- Flexbox Grid Layout
+- Linear Gradients
+- Box Transition Glow
+- Box Transition Glow
 
 ## Credits
 
